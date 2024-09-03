@@ -52,9 +52,13 @@ a:hover {
 }
 
 #pluto:hover {
-    color: rgb(18, 179, 157);
+    color: rgb(44, 199, 178);
 }
 
 #mars:hover {
-    color: rgb(200, 10, 10);
+    color: rgb(207, 57, 57);
+}
+
+#saturn:hover {
+    color:rgb(177, 129, 59)
 }
