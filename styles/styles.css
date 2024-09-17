@@ -51,8 +51,12 @@ a:hover {
     color: rgb(20, 20, 20);
 }
 
+#другие-планеты {
+    color: rgb(92, 94, 94);
+}
+
 #pluto:hover {
-    color: rgb(44, 199, 178);
+    color: rgb(76, 184, 169);
 }
 
 #mars:hover {
