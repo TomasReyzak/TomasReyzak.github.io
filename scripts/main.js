@@ -1,4 +1,4 @@
-document.querySelector("h1").onclick = function () {
+document.querySelector("h2").onclick = function () {
     alert ("Не тыкай тут!");
 };
 
@@ -15,7 +15,7 @@ myImage.onclick = function() {
 };
 
 var myButton = document.querySelector("button");
-var myHeading = document.querySelector("h1");
+var myHeading = document.querySelector("h2");
 
 function setUserName() {
     var myName = prompt("Пожалуйста, введите своё имя.")
