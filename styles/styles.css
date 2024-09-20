@@ -16,7 +16,7 @@ body{
 #заголовок {
     text-align: center;
     font-size: 40px;
-    margin: 0;
+    margin: 10;
 }
 
 #earth-img {
@@ -24,10 +24,9 @@ body{
     margin: 0 auto;
 }
 
-#инфа-о-фото {
+#клик {
     color: rgb(120, 120, 120);
     text-align: center;
-    
 }
 
 #зглвк-общ-свднй {
