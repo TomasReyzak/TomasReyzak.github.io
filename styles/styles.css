@@ -1,11 +1,11 @@
 
-html {
+#Earth_html {
     font-size: 18px;
     font-family: 'Nunito', sans-serif;
     background-color: rgb(119, 236, 240);
 }
 
-body{
+#Earth_body{
     width:fit-content;
     margin: 20px 20px;
     background-color: rgb(211, 236, 232);
