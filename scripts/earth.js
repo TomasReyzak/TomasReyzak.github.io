@@ -20,13 +20,13 @@ var myHeading = document.querySelector("h2");
 function setUserName() {
     var myName = prompt("Пожалуйста, введите своё имя.")
     localStorage.setItem("name", myName);
-    myHeading.textContent = "Привет, " + myName;
+    myHeading.textContent = "Это моя практика, " + myName;
 } 
 if (!localStorage.getItem("name")) {
     setUserName();
 } else {
     var storedName = localStorage.getItem("name");
-    myHeading.textContent = "И снова привет, " + storedName
+    myHeading.textContent = "Снова на моей практике, " + storedName
 }
 
 myButton.onclick = function () {
