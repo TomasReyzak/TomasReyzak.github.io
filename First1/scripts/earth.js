@@ -1,5 +1,5 @@
 document.querySelector("h2").onclick = function () {
-    alert ("Не тыкай тут!");
+    alert ("Не тыкай!");
 };
 
 var myImage = document.querySelector("img");
