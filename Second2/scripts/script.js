@@ -13,7 +13,6 @@ alert(message);
  const COLOR_BLUE = "#00F";
  const COLOR_ORANGE = "#FF7F00";
  
- // ...когда нам нужно выбрать цвет
  let color = COLOR_ORANGE;
  alert(color); // #FF7F00
 
