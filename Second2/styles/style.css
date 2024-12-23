@@ -1,0 +1,13 @@
+html {
+    font-size: 18px;
+    font-family: 'Nunito', sans-serif;
+    background-color: rgb(84, 197, 231);
+}
+
+body{
+    width:fit-content;
+    margin: 20px 20px;
+    background-color: rgb(211, 236, 232);
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(5, 131, 180);;
+}
