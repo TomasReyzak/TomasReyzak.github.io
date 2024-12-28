@@ -1,5 +1,5 @@
 let user = prompt('Как тебя зовут?','Тони');
-alert(`Привет, ${user}!`);
+alert(`Пошёл ты, ${user}!`);
 
 let isBoss = confirm("Ты здесь главный?")
 alert(isBoss);
